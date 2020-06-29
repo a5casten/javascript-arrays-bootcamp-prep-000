@@ -1,7 +1,7 @@
 var chocolateBars=[
   "snickers",
   "hundred grand",
-  "kitkat",
+  "kit kat",
   "skittles"
   ]
 
