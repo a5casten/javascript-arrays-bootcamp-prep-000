@@ -29,7 +29,7 @@ function accessElementInArray(array, index) {
   console.log(array[index]);
 }
 
-function destructivelyRemoveElementFromBeginningOfArray (array) {
+function destructivelyRemoveElementFromBeginningOfArray(array) {
   array.shift();
   return array;
 }
@@ -39,7 +39,7 @@ function removeElementFromBegginingOfArray(array) {
   return altered;
 }
 
-function destructivelyRemoveElementFromBeginningOfArray (array) {
+function destructivelyRemoveElementFromBeginningOfArray(array) {
   array.pop();
   return array;
 }
